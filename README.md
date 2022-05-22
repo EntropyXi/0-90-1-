@@ -12,7 +12,6 @@ FROM China
 
 最近在玩渗透
 
-嘻嘻
+爱她，永远
 
-永远爱着她.
-Love LCY Forever.
+
